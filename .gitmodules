@@ -1,0 +1,12 @@
+[submodule "image-filter-starter-code"]
+	path = image-filter-starter-code
+	url = https://github.com/jeanfsantos/image-filter-starter-code
+[submodule "simple-node"]
+	path = simple-node
+	url = https://github.com/jeanfsantos/simple-node
+[submodule "simple-express"]
+	path = simple-express
+	url = https://github.com/jeanfsantos/simple-express
+[submodule "simple-reverse-proxy"]
+	path = simple-reverse-proxy
+	url = https://github.com/jeanfsantos/simple-reverse-proxy
