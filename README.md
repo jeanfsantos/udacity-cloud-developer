@@ -100,6 +100,18 @@ kubectl delete deployment my-app-2
 kubectl delete deployment reverseproxy  
 ```
 
+### Scaling and Self-Healing 
+
+set HPA: 
+```
+kubectl autoscale deployment my-app-2 --cpu-percent=50 --min=1 --max=10
+```
+
+view HPA:
+```
+kubectl get hpa
+```
+
 ### Troubleshooting:
 
 to check details about the IAM user or role whose credentials are used to call the operation.
@@ -109,6 +121,12 @@ $ aws sts get-caller-identity
 ```
 
 can use optional param to set profile, e.g. --profile udacity
+
+
+to get token:
+```
+aws eks get-token --cluster-name MyEKSCluster
+```
 
 to creating or updating a kubeconfig file for an Amazon EKS cluster
 
