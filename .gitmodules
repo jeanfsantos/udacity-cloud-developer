@@ -10,3 +10,6 @@
 [submodule "simple-reverse-proxy"]
 	path = simple-reverse-proxy
 	url = https://github.com/jeanfsantos/simple-reverse-proxy
+[submodule "cd0354-monolith-to-microservices-project"]
+	path = cd0354-monolith-to-microservices-project
+	url = https://github.com/jeanfsantos/cd0354-monolith-to-microservices-project
