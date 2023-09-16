@@ -13,3 +13,6 @@
 [submodule "cd0354-monolith-to-microservices-project"]
 	path = cd0354-monolith-to-microservices-project
 	url = https://github.com/jeanfsantos/cd0354-monolith-to-microservices-project
+[submodule "serverless-udagram-app"]
+	path = serverless-udagram-app
+	url = https://github.com/jeanfsantos/serverless-udagram-app
