@@ -19,3 +19,6 @@
 [submodule "todo-serverless-app"]
 	path = todo-serverless-app
 	url = git@github.com:jeanfsantos/todo-serverless-app.git
+[submodule "cloud-capstone-project"]
+	path = cloud-capstone-project
+	url = git@github.com:jeanfsantos/cloud-capstone-project.git
