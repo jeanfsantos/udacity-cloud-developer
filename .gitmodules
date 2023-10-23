@@ -16,3 +16,6 @@
 [submodule "serverless-udagram-app"]
 	path = serverless-udagram-app
 	url = https://github.com/jeanfsantos/serverless-udagram-app
+[submodule "todo-serverless-app"]
+	path = todo-serverless-app
+	url = git@github.com:jeanfsantos/todo-serverless-app.git
